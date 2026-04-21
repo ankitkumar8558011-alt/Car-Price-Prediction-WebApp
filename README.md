@@ -103,10 +103,10 @@ Evaluated using R² Score
 
 Programming → Python
 Libraries →
-*PandasNumPy
-*Matplotlib
-*Seaborn
-*Scikit-learn
+PandasNumPy
+Matplotlib
+Seaborn
+Scikit-learn
 
 ⚙️ How to Run
 
