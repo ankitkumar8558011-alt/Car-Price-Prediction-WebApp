@@ -1,4 +1,4 @@
-# 🚗 Car Price Prediction (Machine Learning Project)
+se# 🚗 Car Price Prediction (Machine Learning Project)
 
 Car Price Prediction is a **machine learning project** that estimates the price of used cars based on factors such as year, mileage, fuel type, and company.
 
@@ -111,7 +111,6 @@ Performed analysis to understand:
 
 ## ⚙️ How to Run
 git clone https://github.com/ankitkumar8558011-alt/Car-Price-Prediction-WebApp.git
-cd car-price-prediction
 
 python -m venv venv
 venv\Scripts\activate   # Windows
