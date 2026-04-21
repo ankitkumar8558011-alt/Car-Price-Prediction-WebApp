@@ -1,8 +1,10 @@
 🚗 Car Price Prediction (Machine Learning Project)
+
 Car Price Prediction is a machine learning project that estimates the price of used cars based on factors such as year, mileage, fuel type, and company.
 The project follows a complete end-to-end ML lifecycle, from data cleaning to model building and evaluation.
 
 🎯 Problem Statement
+
 The objective of this project is to analyze how the price of a used car is affected by various factors, including:
 Year of manufacturing
 Kilometers driven
